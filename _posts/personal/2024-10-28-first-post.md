@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "First Post!"
 date: 2024-10-28
 categories: personal
