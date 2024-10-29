@@ -54,7 +54,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -104,10 +104,10 @@ author:
   avatar           : "/assets/images/favicon-32x32.png"
   bio              : "I am an **amazing** person."
   location         : "Austin, TX"
-  email            : ctorrsc@gmail.com
+  #email            : ctorrsc@gmail.com
   links:
     - label: "ctorrsc@gmail.com"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ctorrsc@gmail.com"
     - label: "ctorrsc"
       icon: "fab fa-fw fa-x-twitter"
@@ -218,7 +218,6 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
 
 
