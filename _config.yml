@@ -12,8 +12,8 @@ description              : "Software Developer"
 url                      : "http://christorres.tech"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ChTowers/ChTowers.github.io"
-teaser                   : "/assets/images/favicon-32x32.png"
-logo                     : "/assets/images/favicon-32x32.png"
+teaser                   : "/assets/images/favicon.ico"
+logo                     : "/assets/images/favicon.ico"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false
 words_per_minute         : 200
@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "Christopher Torres"
-  avatar           : "/assets/images/favicon-32x32.png"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "Software Developer"
   location         : "Austin, TX"
   #email            : ctorrsc@gmail.com
   links:

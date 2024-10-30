@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="2000" height="2000"><svg width="2000" height="2000" viewBox="0 0 529.16667 529.16667" version="1.1" id="SvgjsSvg1070" inkscape:version="1.4 (86a8ad7, 2024-10-11)" sodipodi:docname="drawing.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview id="SvgjsSodipodi:namedview1069" pagecolor="#505050" bordercolor="#ffffff" borderopacity="1" inkscape:showpageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" inkscape:deskcolor="#505050" inkscape:document-units="px" inkscape:zoom="0.5" inkscape:cx="587" inkscape:cy="351" inkscape:window-width="3840" inkscape:window-height="2054" inkscape:window-x="-11" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:current-layer="g10"></sodipodi:namedview>
+  <defs id="SvgjsDefs1068">
+    <linearGradient id="SvgjsLinearGradient1067" inkscape:swatch="solid">
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="SvgjsStop1066"></stop>
+    </linearGradient>
+  </defs>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="SvgjsG1065">
+    <g id="SvgjsG1064" style="stroke-width:3.39938118;stroke-dasharray:none" transform="matrix(3.8916397,0,0,3.8916397,-290.91938,-334.63665)">
+      <path d="m 197.54764,111.75397 c -19.76421,-8.32982 -32.14369,-13.576031 -55.99494,-13.579018 -23.56707,0.02699 -34.11218,5.287528 -53.711081,13.452958 -0.237957,0.30736 -0.115774,-0.75283 6.71e-4,2.36511 5.916993,58.0409 13.2917,66.92825 56.35625,95.46047 42.79997,-29.06139 46.99968,-39.01825 53.44584,-94.41333 0,-3.185 0.2401,-3.09171 -0.0967,-3.28619 z" style="fill:none;stroke:#000000;stroke-width:3.39938;stroke-linecap:round;stroke-dasharray:none;paint-order:stroke fill markers" id="SvgjsPath1063" sodipodi:nodetypes="cccccccc"></path>
+      <path id="SvgjsPath1062" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.39938118;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" d="m 143.21896,166.83345 c -3.03393,3.37565 -7.28439,5.29269 -11.73492,5.29269 -8.85831,0 -16.03939,-7.44461 -16.03939,-16.628 0,-9.18339 7.18108,-16.62799 16.03939,-16.62799 4.85312,0 9.33491,2.278 12.37968,6.19586" sodipodi:nodetypes="csssc"></path>
+      <path id="SvgjsPath1061" style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.39938118;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" d="m 153.22562,115.80789 c -50.51395,0 -50.51394,31.80507 -50.51394,31.80507 m 51.63647,44.5271 v -76.33217 h 26.94077" sodipodi:nodetypes="ccccc"></path>
+    </g>
+  </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: invert(100%); } }
+</style></svg>
