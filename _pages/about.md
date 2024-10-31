@@ -1,8 +1,6 @@
 ---
-layout: single
 title: About
 permalink: /about/
-author_profile: true
 ---
 
 A Software Developer based out of Austin, TX. I currently work as a Web Developer for OroSolutions creating automated financial reports and updating legacy code with C# and .NET.
