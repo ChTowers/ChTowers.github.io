@@ -9,7 +9,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Christopher Torres"
 description              : "Software Developer"
-url                      : "http://christorres.tech"
+url                      : "https://christorres.tech"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ChTowers/ChTowers.github.io"
 teaser                   : "/assets/images/favicon.ico"
